@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- Konsisten untuk belajar ASP.NET Core
+- Membuat website dengan menggunakan ASP.NET Core
+- Bekerja Di luar Negeri
