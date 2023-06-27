@@ -3,3 +3,5 @@ WPU RESOLUSI
 - Membuat website dengan menggunakan ASP.NET Core
 - Bekerja Di luar Negeri
 - Bercita-cita jadi pebisnis muda, programing, trading
+- Buat konten youtube
+- Buat vlog
